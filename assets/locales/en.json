@@ -1,0 +1,57 @@
+{
+  "settings": {
+    "settings": "Settings",
+    "language": "Language",
+    "logout": "Logout"
+  },
+  "trombi": {
+    "searchPlaceholder": "Search for employees",
+    "title": "Group picture"
+  },
+  "chat": {
+    "search": "Search for a conversation",
+    "noChat": "No conversation"
+  },
+  "chatView": {
+    "input": "Type a message"
+  },
+  "salute": {
+      "morning": "Good morning",
+      "afternoon": "Good afternoon",
+      "evening": "Good evening"
+  },
+  "home": {
+    "fab": {
+      "weather": "Weather",
+      "profile": "Profile",
+      "time": "Time",
+      "trombi": "Picture group",
+      "discord": "Discord",
+      "notepad": "Notepad",
+      "todolist": "Todolist",
+      "birthday": "Birthdays",
+      "greeting": "Greeting"
+    }
+  },
+  "discord": {
+    "title": "Discord",
+    "placeholder": "Send a message to Discord",
+    "send": "Send"
+  },
+  "profile": {
+    "email": "Email",
+    "birthday": "Birth day",
+    "gender": "Gender",
+    "message": "Send a message",
+    "noSubordinates": "No subordinates",
+    "work": "Work position",
+    "title": "Your profile"
+  },
+  "notepad": {
+    "title": "Notepad"
+  },
+  "todo": {
+    "title": "To-do list",
+    "addTask": "Add a task"
+  }
+}

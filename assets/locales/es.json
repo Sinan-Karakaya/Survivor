@@ -1,0 +1,52 @@
+{
+  "settings": {
+    "settings": "Ajustes",
+    "language": "Idioma",
+    "logout": "Cerrar sesión"
+  },
+  "trombi": {
+    "searchPlaceholder": "Buscar empleados",
+    "title": "Foto de grupo"
+  },
+  "chat": {
+    "search": "Buscar una conversación",
+    "noChat": "Sin conversación"
+  },
+  "chatView": {
+    "input": "Escribe un mensaje"
+  },
+  "salute": {
+    "morning": "buen día",
+    "afternoon": "buenas tardes",
+    "evening": "buenas noches"
+  },
+  "home": {
+    "fab": {
+      "weather": "Clima",
+      "profile": "Perfil",
+      "time": "Tiempo",
+      "trombi": "Grupo de imágenes",
+      "discord": "Discordia",
+      "notepad": "Bloc",
+      "birthday": "Cumpleaños",
+      "greeting": "saludos"
+    }
+  },
+  "discord": {
+    "title": "Discordia",
+    "placeholder": "Enviar un mensaje a Discord",
+    "send": "Enviar"
+  },
+  "profile": {
+    "email": "Correo electrónico",
+    "birthday": "Cumpleaños",
+    "gender": "Género",
+    "message": "Enviar un mensaje",
+    "noSubordinates": "Sin subordinados",
+    "work": "Posición de trabajo",
+    "title": "Tu perfil"
+  },
+  "notepad": {
+    "title": "Bloc"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "settings": {
+    "settings": "Paramètres",
+    "language": "Langue",
+    "logout": "Se déconnecter"
+  },
+  "trombi": {
+    "searchPlaceholder": "Rechercher un utilisateur",
+    "title": "Trombinoscope"
+  },
+  "chat": {
+    "search": "Rechercher une conversation",
+    "noChat": "Aucune conversation"
+  },
+  "chatView": {
+    "input": "Écrire un message..."
+  },
+  "salute": {
+      "morning": "Bonjour",
+      "afternoon": "Bon après-midi",
+      "evening": "Bonsoir"
+  },
+  "home": {
+    "fab": {
+      "weather": "Météo",
+      "profile": "Profile",
+      "time": "Heure",
+      "trombi": "Trombinoscope",
+      "discord": "Discord",
+      "notepad": "Notes",
+      "todolist": "Liste de tâches",
+      "birthday": "Anniversaires",
+      "greeting": "Salutation"
+    }
+  },
+  "discord": {
+    "title": "Discord",
+    "placeholder": "Envoyez un message sur Discord",
+    "send": "Envoyer"
+  },
+  "profile": {
+    "email": "Email",
+    "birthday": "Anniversaire",
+    "gender": "Genre",
+    "message": "Envoyer un message",
+    "noSubordinates": "Pas de collaborateurs",
+    "work": "Rôle",
+    "title": "Votre profil"
+  },
+  "notepad": {
+    "title": "Notes"
+  },
+  "todo": {
+    "title": "Liste de tâches",
+    "addTask": "Ajouter une tâche"
+  }
+}

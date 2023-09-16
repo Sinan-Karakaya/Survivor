@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "379183449148",
+    "project_id": "clippy-survivor",
+    "storage_bucket": "clippy-survivor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379183449148:android:75843401aa1d051d45af39",
+        "android_client_info": {
+          "package_name": "com.clippy.survivor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByXTxXWJLNsfATWOu6TtlYuCyB_Xqssw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,52 @@
+{
+    "settings": {
+      "settings": "設置",
+      "language": "語言",
+      "logout": "註銷"
+    },
+    "trombi": {
+      "searchPlaceholder": "搜索員工",
+      "title": "合影"
+    },
+    "chat": {
+      "search": "搜索對話",
+      "noChat": "沒有對話"
+    },
+    "chatView": {
+      "input": "鍵入消息"
+    },
+    "salute": {
+      "morning": "早上好",
+      "afternoon": "下午好",
+      "evening": "晚上好"
+    },
+    "home": {
+      "fab": {
+        "weather": "天氣",
+        "profile": "輪廓",
+        "time": "時間",
+        "trombi": "圖片組",
+        "discord": "不和",
+        "notepad": "記事本",
+        "birthday": "生日",
+        "greeting": "问候"
+      }
+    },
+    "discord": {
+      "title": "不和",
+      "placeholder": "向不和諧發送消息",
+      "send": "发送"
+    },
+    "profile": {
+      "email": "电子邮件",
+      "birthday": "生日",
+      "gender": "性别",
+      "message": "发送一个消息",
+      "noSubordinates": "没有下属",
+      "work": "工作岗位",
+      "title": "你的个人资料"
+    },
+    "notepad": {
+      "title": "記事本"
+    }
+  }
