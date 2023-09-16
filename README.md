@@ -13,8 +13,8 @@ We made this project in group of 2-3 in 2 weeks, the goal was to have an MVP by
 the end of first week and answer to the client's requests during the second
 week.
 
-![Image](./docs/login.png)
-![Image](./docs/home.png)
-![Image](./docs/trombi.png)
-![Image](./docs/chat.png)
-![Image](./docs/demo.gif)
+<img src="./docs/login.png" width="200" height="200" alt="Login screen of Clippy app" />
+<img src="./docs/home.png" width="200" height="200" alt="Home screen of Clippy app with widgets"/>
+<img src="./docs/trombi.png" width="200" height="200" alt="Trombinoscope screen of the Clippy app, with pictures of employees" />
+<img src="./docs/chat.png" width="200" height="200" alt="Chat screen of the Clippy app, with some example texts" />
+<img src="./docs/demo.gif" width="200" height="200" alt="Quick demo of the clippy app, which showcase draggable widgets, the trombinoscope, and the to-do list" />
